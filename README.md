@@ -21,7 +21,7 @@ This is a Spring Boot-based application designed to manage and analyze mutual fo
 
 1. Clone the repository:
     bash
-    git clone (https://github.com/SathyaNarayanan26092004/BajajFinservRound1Code.git)
+    git clone (https://github.com/Anandhajothi07/bajaj_fintech_round1.git)
     
 2. Navigate to the project folder:
     bash
